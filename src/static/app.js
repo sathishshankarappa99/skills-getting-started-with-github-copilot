@@ -19,7 +19,6 @@ document.addEventListener("DOMContentLoaded", () => {
         activityCard.className = "activity-card";
 
         const spotsLeft = details.max_participants - details.participants.length;
-// please edit the activity cards
         activityCard.innerHTML = `
           <h4>${name}</h4>
           <p>${details.description}</p>

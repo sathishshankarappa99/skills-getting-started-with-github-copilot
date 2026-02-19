@@ -27,7 +27,6 @@ header {
 header h1 {
   margin-bottom: 10px;
 }
-
 main {
   display: flex;
   flex-wrap: wrap;
